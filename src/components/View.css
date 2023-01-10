@@ -1,0 +1,15 @@
+.View{
+    background: url('/src/images/landing-translator.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.search{
+    z-index: 1 !important;
+    background-color: aqua;
+}
+.table{
+   
+    z-index: -100 !important;
+}
